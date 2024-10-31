@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 # Provide the full path to the model file
-model_path = r'C:\Users\ahoga\Desktop\Talento_Tech\Talento_Tech/mlp_model.h5'
+model_path = r'C:\Users\ahoga\Desktop\Talento_Tech\mnist\mnist_model.h5'
 
 # Check if the model file exists
 if not os.path.exists(model_path):
